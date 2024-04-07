@@ -123,7 +123,7 @@ return 0;
 ,,,
 
 ### OUTPUt :
-![320173957-6156961f-3aa4-4da8-925b-d5038db15034](https://github.com/shivanshyam79/Linux-IPC-Message-Queues/assets/151513860/af2bfed9-ab2a-407f-98bb-f9bee031e3a7)
+### ![320173957-6156961f-3aa4-4da8-925b-d5038db15034](https://github.com/shivanshyam79/Linux-IPC-Message-Queues/assets/151513860/af2bfed9-ab2a-407f-98bb-f9bee031e3a7)
 
 
 ### RESULT:
